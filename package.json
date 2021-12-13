@@ -1,0 +1,19 @@
+{
+  "name": "glo-languages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/glocalize-inc/glo-languages.git"
+  },
+  "author": "yungik@glocalizeinc.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glocalize-inc/glo-languages/issues"
+  },
+  "homepage": "https://github.com/glocalize-inc/glo-languages#readme"
+}
