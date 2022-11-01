@@ -300,4 +300,5 @@ export enum GloLanguageEnum {
   "ta-LK" = "Tamil (Sri Lanka)",
   "ur-IN" = "Urdu (India)",
   "ur-PK" = "Urdu (Pakistan)",
+  "others" = "Others",
 }

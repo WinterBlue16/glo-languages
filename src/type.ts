@@ -299,4 +299,5 @@ export type GloLanguageCode =
   | "ta-SG"
   | "ta-LK"
   | "ur-IN"
-  | "ur-PK";
+  | "ur-PK"
+  | "others";

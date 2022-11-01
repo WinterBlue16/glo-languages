@@ -302,4 +302,5 @@ export const gloLanguageCodes: Array<GloLanguageCode> = [
   "ta-LK",
   "ur-IN",
   "ur-PK",
+  "others",
 ];
