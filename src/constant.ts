@@ -381,5 +381,7 @@ export const gloLanguageCodes: Array<GloLanguageCode> = [
   'zh-Hans-MO',
   'zh-HK',
   'zh-MO',
+  'yi-001',
+  'fr-HT',
   "others",
 ];

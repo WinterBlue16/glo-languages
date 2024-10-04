@@ -56,7 +56,7 @@ export const GloLanguageEnum = {
   "hi" : { name: "Hindi", isEnuffEnabled: false },
   "ho" : { name: "Hiri Motu", isEnuffEnabled: false },
   "hr" : { name: "Croatian", isEnuffEnabled: false },
-  "ht" : { name: "Haitian Creole", isEnuffEnabled: false },
+  "ht" : { name: "Haitian Creole", isEnuffEnabled: true }, // 수정
   "hu" : { name: "Hungarian", isEnuffEnabled: false },
   "hy" : { name: "Armenian", isEnuffEnabled: false },
   "hz" : { name: "Herero", isEnuffEnabled: false },
@@ -168,7 +168,7 @@ export const GloLanguageEnum = {
   "ty" : { name: "Tahitian", isEnuffEnabled: false },
   "ug" : { name: "Uighur", isEnuffEnabled: false },
   "uk" : { name: "Ukrainian", isEnuffEnabled: false },
-  "ur" : { name: "Urdu", isEnuffEnabled: false },
+  "ur" : { name: "Urdu", isEnuffEnabled: true }, // 수정
   "uz" : { name: "Uzbek", isEnuffEnabled: false },
   "ve" : { name: "Venda", isEnuffEnabled: false },
   "vi" : { name: "Vietnamese", isEnuffEnabled: false },
@@ -380,5 +380,7 @@ export const GloLanguageEnum = {
   "zh-Hans-MO" : { name: "Chinese (Simplified Han, Macau SAR China)", isEnuffEnabled: true },
   "zh-HK" : { name: "Chinese (Traditional, Hong Kong S.A.R.)", isEnuffEnabled: true },
   "zh-MO" : { name: "Chinese (Traditional, Macao S.A.R.)", isEnuffEnabled: true },
+  "yi-001" : { name: "Yiddish (World)", isEnuffEnabled: true }, // 추가
+  "fr-HT" : { name: "French (Haiti)", isEnuffEnabled: true }, // 추가
   "others" : { name: "Others", isEnuffEnabled: false }
 }
