@@ -15,7 +15,6 @@ export type GloLanguageCode =
   | "bg"
   | "bi"
   | "bm"
-  | "bn"
   | "bo"
   | "br"
   | "bs"
@@ -273,6 +272,7 @@ export type GloLanguageCode =
   | 'az-Cyrl-AZ'
   | 'az-Latn'
   | 'az-Latn-AZ'
+  | 'bn'
   | 'bn-BD'
   | 'bn-IN'
   | 'eu'
